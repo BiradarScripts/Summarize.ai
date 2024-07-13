@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Summarize.ai"
 AUTHOR_USER_NAME = "Shreyas Biradar"
-SRC_REPO = "Summarize.ai"
+SRC_REPO = "Summarize_ai"
 AUTHOR_EMAIL = "shreyasbiradar1913@gmail.com"
 
 

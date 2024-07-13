@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]:%(message)s:')
 
-project_name="Sumamrize.ai"
+project_name="Summarize_ai"
 
 list_of_files=[
     ".github/workflows/.gitkeep",
